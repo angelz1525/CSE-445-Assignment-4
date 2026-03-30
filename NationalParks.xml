@@ -125,16 +125,4 @@
       <Zip>59936</Zip>
     </Address>
   </NationalPark>
-
-  <NationalPark>
-    <Name>Grand Teton</Name>
-    <Phone>307-739-3300</Phone>
-    <Address NearestAirport="Jackson">
-      <Number>103</Number>
-      <Street>Headquarters Loop</Street>
-      <City>Moose</City>
-      <State>WY</State>
-      <Zip>83012</Zip>
-    </Address>
-  </NationalPark>
 </NationalParks>
